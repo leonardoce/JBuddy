@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='ISO-8859-1' ?>
+<!DOCTYPE toc
+  PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp TOC Version 1.0//EN"
+         "http://java.sun.com/products/javahelp/toc_1_0.dtd">
+
+<toc version="1.0">
+<tocitem image="toplevelfolder" target="overview" text="Informazioni su JBuddy">
+    <tocitem text="Licenza d'uso">
+      <tocitem target="gpl" text="Licenza GPL"/>
+      <tocitem target="gpl_en" text="GPL Licence - Legal Value"/>
+    </tocitem>
+    <tocitem text="Guida">
+      <tocitem target="guida" text="Introduzione"/>
+      <tocitem target="configurazione" text="Configurazione"/>
+      <tocitem target="uso" text="Uso"/>
+      <tocitem target="dipendenze" text="Dipendenze Esterne"/>
+      <tocitem target="grazie" text="Ringraziamenti"/>
+      <tocitem target="contatti" text="Feedback e Contatti"/>
+    </tocitem>
+</tocitem>
+</toc>
